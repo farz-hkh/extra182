@@ -11,14 +11,14 @@ Install dulu github
 
 * Dapat juga mengikuti catatan-catatan dibawah ini
 
-  * [Catatan Log Pertama](https://github.com/farz-hkh/extra182.github.io/blob/master/_posts/2018-12-27-log-pertama.md)
+  * [Catatan Log Pertama](https://github.com/farz-hkh/extra182/blob/master/_posts/2018-12-27-log-pertama.md)
 
-  * [Catatan Log Kedua](https://farz-hkh.github.io/extra182.github.io/)
+  * [Catatan Log Kedua](https://farz-hkh.github.io/extra182/)
 
 * [Need Help?](https://help.github.com/)
 
 
-* [More...](https://farz-hkh.github.io/extra182.github.io/)
+* [More...](https://farz-hkh.github.io/extra182/)
 
 
 # DISCLAIMER
