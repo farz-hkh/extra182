@@ -13,7 +13,7 @@ Install dulu github
 
   * [Catatan Log Pertama](https://github.com/farz-hkh/extra182/blob/master/_posts/2018-12-27-log-pertama.md)
 
-  * [Catatan Log Kedua](https://farz-hkh.github.io/extra182/)
+  * [Catatan Log Kedua](https://github.com/farz-hkh/extra182/blob/master/_posts/2018-12-28-log-kedua.md)
 
 * [Need Help?](https://help.github.com/)
 
