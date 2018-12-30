@@ -4,8 +4,3 @@
 
 layout: home
 ---
-
-
-[comment]: # (This is the most platform independent comment)
-=======
-
