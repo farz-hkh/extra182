@@ -3,21 +3,21 @@ Github kali ini membutuhkan beberapa program dependency lain yaitu Git, Jekyll d
 
 1. Pertama kita membutuhkan Github account.
 
-<img src="/pictures/github_akun.png" alt="../pictures/github_akun.png">
+![useful image]({{ site.url }}/pictures/github_akun.png)
 
 Kita dapat membuatnya dengan Sign Up atau Sign In(jika sudah ada)
 
 2. Setelah kita membuat github account, kita dapat langsung membuat proyek awal. Katakanlah extra1xx dan dalam keadaan public. Akan lebih baik juga jika memilih README untuk menjelaskan Github Pages kita.
 
-<img src="/pictures/github_repo.png" alt="../pictures/github_repo.png">
+![useful image]({{ site.url }}/pictures/github_repo.png)
 
 3. Kemudian kita setting Github pages kita untuk melihat sumber personal kita contohnya kita memilih sumber dari master branch. Kita juga dapat memilih Theme untuk Github Pages kita dan kita juga dapat kebebasan untuk mengcustom domain url kita, tapi defaultnya tidak perlu(gunakan jika memang ingin).
 
-<img src="/pictures/github_pages.png" alt="../pictures/github_pages.png">
+![useful image]({{ site.url }}/pictures/github_pages.png)
 
 4. Setelah itu kita perlu mengclone git yang kita buat tersebut ke pc atau komputer kita(dapat juga clone git).
 
-<img src="/pictures/github_clone.png" alt="../pictures/github_clone.png">
+![useful image]({{ site.url }}/pictures/github_clone.png)
 
 5. Setelah itu kita buat folder yang bernama "_posts" yang berisi log pengerjaan kita, kemudian kita buat log txt yang berisi tutorial-tutorial seperti pada txt saat ini.
 
