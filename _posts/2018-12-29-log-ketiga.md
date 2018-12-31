@@ -6,7 +6,7 @@
 
 5.Pada github pages yang berintegrasi jekyll ini kita dapat mengedit di bagian index.md
 
-<img src="/pictures/index.png" alt="../pictures/index.png">
+![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/pictures/index.png)
 
 6.Setelah itu kita akan membuat website dan menjadikan lokal dengan command
 
@@ -22,4 +22,4 @@
 
 Sehingga hasilnya menjadi
 
-<img src="/pictures/local.png" alt="../pictures/local.png">
+![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/pictures/local.png)
