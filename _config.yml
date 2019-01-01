@@ -35,7 +35,6 @@ github_username:  farz-hkh
 # Build settings
 markdown: kramdown
 author: Farz-hkh
-theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
