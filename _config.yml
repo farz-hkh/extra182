@@ -28,16 +28,13 @@ description:  # this means to ignore newlines until "baseurl:"
 
   Farz-hkh
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://farz-hkh.github.io/extra182" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://farz-hkh.github.io/Exercise" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FadhrizStelar
 github_username:  farz-hkh
 
 # Build settings
 markdown: kramdown
-author: Farz-hkh
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -51,8 +48,16 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+#CAUTION IF YOU'RE USING LOCALHOST, THEN YOU NEED TO IMPLEMENT THE LINE BELOW (github: [metadata])
+#IF YOU WANT TO LOOK AT YOUR GITHUB.IO, THEN YOU NEED TO UNCOMMENT (ZIP, TAR, AND REPOSITORY, AND ADD github: )
+github: [metadata]
+ # zip_url: https://github.com/farz-hkh/Exercise/zipball/master
+ # tar_url: https://github.com/farz-hkh/Exercise/tarball/master
+ # repository: farz-hkh/Exercise
+#  repository_nwo: github/Exercise
+#  repository_name: Exercise
 
-# github: [metadata]
+
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
@@ -62,11 +67,6 @@ collections:
     output: true
 
 defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
   - scope:
       path: ""
       type: "posts"
@@ -80,9 +80,11 @@ defaults:
 # Google Analytics
 google_analytics: UA-89852122-1
 
-#plugins:
-#  - jekyll-gist
-#  - jemoji
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jemoji
+  - jekyll-github-metadata
 
 # CAN CHANGE
 # encoding: UTF-8
