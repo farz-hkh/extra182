@@ -4,25 +4,11 @@
 
 Halo semua, pada proyek ini akan dibahas bagaimana menggunakan github pages dengan tambahan jekyll yang membutuhkan ruby.
 
-Berikut adalah caranya :
 
-Install dulu github
 * [GITHUB](https://github.com/)
-
-* Dapat juga mengikuti catatan-catatan dibawah ini
-
-  * [Catatan Log Pertama](https://github.com/farz-hkh/extra182/blob/master/_posts/2018-12-27-log-pertama.md)
-
-  * [Catatan Log Kedua](https://github.com/farz-hkh/extra182/blob/master/_posts/2018-12-28-log-kedua.md)  
-
-  * [Catatan Log Ketiga](https://github.com/farz-hkh/extra182/blob/master/_posts/2018-12-29-log-ketiga.md)
-
-  * [Catatan Log Keempat](https://github.com/farz-hkh/extra182/blob/master/_posts/2018-12-30-log-keempat.md)
 
 * [Need Help?](https://help.github.com/)
 
-
-* [More...](https://farz-hkh.github.io/extra182/)
 
 
 # DISCLAIMER
