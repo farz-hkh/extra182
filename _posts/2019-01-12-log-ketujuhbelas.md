@@ -2,7 +2,3 @@ Hari ini adalah proses dimana kita akan membuat gabungan dari ketiga anggota men
 
 Yang ini adalah langkah-langkah terakhir kami untuk menggabungkan keseluruhan project kami.
 Untuk lebih lebih lengkapnya dapat dilihat pada project utama kami.
-
-Terima kasih atas kunjungannya.
-
-Sampai bertemu lagi
