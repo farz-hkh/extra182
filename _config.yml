@@ -34,7 +34,8 @@ github_username:  farz-hkh
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -50,10 +51,10 @@ theme: minima
 
 #CAUTION IF YOU'RE USING LOCALHOST, THEN YOU NEED TO IMPLEMENT THE LINE BELOW (github: [metadata])
 #IF YOU WANT TO LOOK AT YOUR GITHUB.IO, THEN YOU NEED TO UNCOMMENT (ZIP, TAR, AND REPOSITORY, AND ADD github: )
-github: [metadata]
- # zip_url: https://github.com/farz-hkh/Exercise/zipball/master
- # tar_url: https://github.com/farz-hkh/Exercise/tarball/master
- # repository: farz-hkh/Exercise
+github:
+  zip_url: https://github.com/farz-hkh/extra182/zipball/master
+  tar_url: https://github.com/farz-hkh/extra182/tarball/master
+  repository: https://github.com/farz-hkh
 #  repository_nwo: github/Exercise
 #  repository_name: Exercise
 
