@@ -30,12 +30,14 @@ description:  # this means to ignore newlines until "baseurl:"
 #baseurl: "https://farz-hkh.github.io/extra182/about" # the subpath of your site, e.g. /blog
 url: "https://farz-hkh.github.io/extra182" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FadhrizStelar
-github_username:  farz-hkh
+github_username: farz-hkh
+
 
 # Build settings
 markdown: kramdown
 #theme: minima
 theme: jekyll-theme-hacker
+repository: farz-hkh/extra182
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -54,7 +56,6 @@ theme: jekyll-theme-hacker
 github:
   zip_url: https://github.com/farz-hkh/extra182/zipball/master
   tar_url: https://github.com/farz-hkh/extra182/tarball/master
-  repository: https://github.com/farz-hkh
 #  repository_nwo: github/Exercise
 #  repository_name: Exercise
 
