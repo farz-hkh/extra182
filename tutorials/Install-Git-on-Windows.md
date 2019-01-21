@@ -60,54 +60,54 @@ Wait for it.
 ![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w20.png)
 
 ### Step 12
-Make sure to uncheck the Launch Git Bash, and View Realease Notes, and click Finish.
+Make sure to uncheck the Launch Git Bash, and View Release Notes, and click Finish.
 
 ![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w21.png)
 
 ### Step 13
 Go to windows cmd or powershell
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w22.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w22.PNG)
 
 ### Step 14
 Type git to know about git and its use
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w23.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w23.PNG)
 
 ### Step 15
 You can type notepad in windows search or type below
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w24.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w24.PNG)
 
 ### Step 16
 Type git config to know the configuration
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w25.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w25.PNG)
 
 ### Step 17
-Go to your directory where you want to start your project, here i'm using my ow directory
+Go to your directory where you want to start your project, here I'm using my own directory
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w26.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w26.PNG)
 
 ### Step 18
 Next is try to git clone any website
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w27.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w27.PNG)
 
 ### Step 19
 Go to the directory that you've just cloned
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w28.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w28.PNG)
 
 ### Step 20
 Create a dummy file in the SandBox folder, and choose Yes if prompted
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w29.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w29.PNG)
 
 ### Step 21
 Type anything you want to test it output
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w30.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w30.PNG)
 
 ### Step 22
 Now there's 3 things, that you need to know about the git commands. Which is
@@ -118,9 +118,9 @@ Now there's 3 things, that you need to know about the git commands. Which is
   git push -u origin master
 ```
 
-![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w31.png)
+![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/w31.PNG)
 
-It shoud be succesfull, unless if there's some change before that you don't know, perhaps you're in project team.
+It should be successful, unless if there's some change before that you don't know, perhaps you're in project team.
 
 You need to do this command
 
