@@ -35,7 +35,7 @@ github_username: farz-hkh
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
 theme: jekyll-theme-hacker
 repository: farz-hkh/extra182
 

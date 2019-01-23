@@ -16,3 +16,4 @@ title: Extra182
 - [How to Create Github Pages](tutorials/Create-Github-Pages.html)
 - [How to Install Jekyll with Rubydevkit](tutorials/Install-Jekyll.html)
 - [How to Integrate your Github Pages with Jekyll](tutorials/Integrate-GP-Jekyll.html)
+- [How to change the theme](tutorials/Jekyll-Theme.html)

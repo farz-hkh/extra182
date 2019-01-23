@@ -11,22 +11,22 @@ Assuming you've already installed jekyll along with the ruby-devkit, you can ste
 # Step 2
 So, what we need to do now is, go to the docs [here](https://jekyllrb.com/docs/)
 
-![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je.png)
+![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je.PNG)
 
 # Step 3
 After that open your cmd, click Windows and then type cmd. And choose that
 
-![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/er.png)
+![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/er.PNG)
 
 # Step 4
 And then, type like in jekyll docs. We're gonna try to install bundler here.
 
-![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je2.png)
+![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je2.PNG)
 
 # Step 5
 Next, we're gonna test it out using name directory myblog
 
-![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je3.png)
+![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je3.PNG)
 
 # Step 6
 Go into that directory
@@ -42,7 +42,7 @@ Now try it with this command
   bundle exec jekyll serve
 ```
 
-![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je3.png)
+![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/je3.PNG)
 
 
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/r21.png)
