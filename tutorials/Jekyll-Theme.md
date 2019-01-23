@@ -12,7 +12,7 @@ Take a look at your config.yml.
 
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/th1.png)
 
-See the line of theme there, we need to change that to something else, for an exmaple like below in github pages official theme.
+See the line of theme there, we need to change that to something else, for an example like below in github pages official theme.
 
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/th2.png)
 

@@ -66,7 +66,7 @@ If any error occurs as shown below, then go to Step 12. If not, skip to Step 13.
 ![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/r11.png)
 
 ### Step 12
-Depending on your anti-virus software, the following steps may differ. For this tutorial, we'll use Kasperskey Internet Security as an example:
+Depending on your anti-virus software, the following steps may differ. For this tutorial, we'll use Kaspersky Internet Security as an example:
 
 ![img](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/r12.png)
 
